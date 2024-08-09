@@ -1,4 +1,4 @@
-# Bienvenido a Nanikraft Season 2
+# Bienvenido a Nanikraft
 Servidor creado por Taitan, Kokoz y Lukih.
 
 ## Datos
